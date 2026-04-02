@@ -1,0 +1,47 @@
+# Prompts de interação com o NotebookLM - uso, análise e evidências
+
+1. ** IA - Google Gemini **
+
+Seguindo o aprendizado sobre o GitHub, solicitei ao Gemini um roteiro de execução, estruturação de atividades e estimativa de tempo para todo o projeto, com base em anotações.
+- Resultado: visão holística das etapas e tempo estimado.
+
+[planejamento do projeto] (Planejamento do projeto)
+
+
+2. ** NotebookLM **
+
+Seguindo os requisitos do projeto, 4 fontes foram escolhidas:
+
+https://github.com/?locale=pt-br (site da plataforma em português – do produto – demonstração) – “página inicial”
+https://github.com/git-guides (guia do git)
+https://github.com/features?locale=pt-br (características)
+https://docs.github.com/pt (documentações) toda a introdução, o repositório (em Codificação colaborativa). 
+
+- Todas são provenientes do site do GitHub. A fim de encontrar informações que sanassem minhas dúvidas, basicamente - conhecer a plataforma.
+
+
+	# Prompts
+Configuração na conversa com notebookLM – "Guia de aprendizado"
+
+! [Prompt 1] (URL da imagem)
+
+
+` Para entender os princípios do GitHub, (o que ele é, sua importância, primeiros passos, readme, seu significado e repositório), ter mais detalhes e mencionando que sou iniciante no assunto. ` Segue o 2º prompt:
+
+! [Prompt 2] (URL da imagem)
+
+
+` Ao confirmar que o controle de versões seria o Git. A resposta devolvida mencionou comandos básicos. Logo, não basta apenas escrever o Readme, existem especificações. Para sabe-los, solicitei que prosseguisse, como a ferramenta sugeriu, em mostrar esses comando básicos. ` (eles estão no arquivo em PDF, seção: Linguagem Markdown “.md”)
+
+
+* Já conhecendo os conceitos e buscando usar o readme, segue o prompt: *
+
+! [Prompt 3] (URL da imagem)
+
+
+* Exemplo de estrutura de README *
+
+! [4_estrutura básica de Readme] (URL da imagem)
+
+
+* As respostas de cada prompt foram compiladas em insights disponíveis no arquivo em PDF: " 1.Git Hub - resumo " *
