@@ -23,12 +23,12 @@ https://docs.github.com/pt (documentações) toda a introdução, o repositório
 	# Prompts
 Configuração na conversa com notebookLM – "Guia de aprendizado"
 
-! [Prompt 1] (URL da imagem)
+! [Prompt 1] (1º prompt_github.png)
 
 
 ` Para entender os princípios do GitHub, (o que ele é, sua importância, primeiros passos, readme, seu significado e repositório), ter mais detalhes e mencionando que sou iniciante no assunto. ` Segue o 2º prompt:
 
-! [Prompt 2] (URL da imagem)
+! [Prompt 2] (2º prompt_github.png)
 
 
 ` Ao confirmar que o controle de versões seria o Git. A resposta devolvida mencionou comandos básicos. Logo, não basta apenas escrever o Readme, existem especificações. Para sabe-los, solicitei que prosseguisse, como a ferramenta sugeriu, em mostrar esses comando básicos. ` (eles estão no arquivo em PDF, seção: Linguagem Markdown “.md”)
@@ -36,12 +36,12 @@ Configuração na conversa com notebookLM – "Guia de aprendizado"
 
 * Já conhecendo os conceitos e buscando usar o readme, segue o prompt: *
 
-! [Prompt 3] (URL da imagem)
+! [Prompt 3] (3º prompt_github.png)
 
 
 * Exemplo de estrutura de README *
 
-! [4_estrutura básica de Readme] (URL da imagem)
+! [Estrutura Readme] (4_estrutura básica de Readme.png)
 
 
 * As respostas de cada prompt foram compiladas em insights disponíveis no arquivo em PDF: " 1.Git Hub - resumo " *
